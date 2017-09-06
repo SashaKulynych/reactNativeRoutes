@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "email": "ghhf@gggg.hhv",
+      "password": "gvvhhh",
+      "id": 1
+    },
+    {
+      "email": "aaa@aaa.aa",
+      "password": "aaa",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "first",
+      "id": 1,
+      "userId":1
+    }
+  ],
+  "routes": [
+    {
+      "name": "dggxcv",
+      "description": "gdzcv",
+      "length": "58899",
+      "id": 1,
+      "userId":1
+    },
+    {
+      "name": "fhgcvh",
+      "description": "gdzcvhnhv",
+      "length": "5585",
+      "id": 2,
+      "userId":1
+    },
+    {
+      "name": "gxcvh",
+      "description": "vccgb",
+      "length": "688896",
+      "id": 3,
+      "userId":1
+    },
+    {
+      "name": "dxgg",
+      "description": "fvbvc",
+      "length": "6888",
+      "id": 4,
+      "userId":1
+    }
+  ],
+  "comments": [],
+  "favorites": [
+    {
+      "route": 4,
+      "id": 1,
+      "userId":1
+    },
+    {
+      "route": 3,
+      "id": 2,
+      "userId":1
+    }
+  ]
+}
